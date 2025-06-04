@@ -1,4 +1,4 @@
-// ### 2. Add or remove elements
+// ###Add or remove elements
 // 1. Declare an array of 3 tourist destinations
 // 2. Add a new tourist destination to your tourist array
 // 3. Add two more to your array
