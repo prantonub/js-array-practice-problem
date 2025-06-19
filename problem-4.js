@@ -6,7 +6,7 @@
 // 2. Now use isArray to check if each variable is an array.
 
 // 3. Print a message to the console indicating whether each variable is an array or not.
-//-------------------------------------------------------------------
+//*
 const fruits = ['Mango', 'Banana', 'Apple'];
 const book = 'JavaScript';
 const numbers = [1, 2, 3, 4, 5];
