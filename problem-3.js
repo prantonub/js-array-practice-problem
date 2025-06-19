@@ -6,7 +6,7 @@
 
 // 3. Print a message to the console indicating whether the element is present in the array or not.
 
-// -------------------------------------------------------------------
+//
 const books = ['Bangla', 'English', 'Math', 'Science', 'JavaScript'];
 // Check if the array contains a JavaScript book
 const hasJavaScriptBook = books.includes('JavaScript');
